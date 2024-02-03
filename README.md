@@ -1,5 +1,5 @@
 # Ecomm-website
-Project Access link: https://are-dee.github.io/Ecomm-website/
+Project Deploy link: https://are-dee.github.io/Ecomm-website/
 
 
 Overview
