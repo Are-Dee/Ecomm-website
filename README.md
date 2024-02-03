@@ -1,4 +1,5 @@
 # Ecomm-website
+Project Access link: https://are-dee.github.io/Ecomm-website/
 Overview
 
 This project is a static replica of the Amazon website, implemented with HTML, CSS, and JavaScript. The webpage simulates key features of the Amazon homepage, including a navigation bar, search functionality, product grid, and modal details for each product. Additionally, it allows users to filter and search for products based on price, rating, and other criteria.
@@ -42,5 +43,10 @@ Key Features
     Modal functionality for detailed product information.
 
 ![image](https://github.com/Are-Dee/Ecomm-website/assets/115395470/349ae205-8b41-4fdb-b276-ff397905cd0b)
+
+Future Improvements:
+
+    Incorporate server-side scripting for dynamic content and user authentication (firebase).
+    Implement a backend to handle user data, product details, and shopping cart functionality (fully-working checkout page.
 
 
