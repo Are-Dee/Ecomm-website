@@ -37,10 +37,10 @@ Key Features
 
     Filtering functionality for products based on price, rating, and sorting options.
 
-    ![image](https://github.com/Are-Dee/Ecomm-website/assets/115395470/01de6ec0-edb6-457f-b9cf-b96277a4bdcd)
+![image](https://github.com/Are-Dee/Ecomm-website/assets/115395470/01de6ec0-edb6-457f-b9cf-b96277a4bdcd)
 
     Modal functionality for detailed product information.
 
-    ![image](https://github.com/Are-Dee/Ecomm-website/assets/115395470/349ae205-8b41-4fdb-b276-ff397905cd0b)
+![image](https://github.com/Are-Dee/Ecomm-website/assets/115395470/349ae205-8b41-4fdb-b276-ff397905cd0b)
 
 
